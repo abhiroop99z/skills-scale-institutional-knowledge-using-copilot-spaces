@@ -15,6 +15,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Confirm UX design artifacts and BA requirements are handoff-ready
 
 ## Backlog Item Template
 - Title:
@@ -41,3 +42,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX flows/prototypes reviewed and linked to backlog items
+- [ ] BA requirement traceability updated for in-scope backlog
+- [ ] RACI ownership confirmed using [Roles RACI Matrix](./octoacme-roles-raci.md)
+- [ ] "Design Ready" and "Dev Ready" completed in [Cross-Functional Handoff Checklist](./octoacme-cross-functional-handoff-checklist.md)

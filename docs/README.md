@@ -12,3 +12,5 @@ OctoAcme uses an iterative, customer-first project management approach with clea
 - [Release and Deployment](./octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+- [Roles RACI Matrix](./octoacme-roles-raci.md)
+- [Cross-Functional Handoff Checklist](./octoacme-cross-functional-handoff-checklist.md)

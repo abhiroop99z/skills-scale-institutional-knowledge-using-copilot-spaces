@@ -14,6 +14,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- Stakeholder Reviewer feedback/UAT captured and unresolved concerns addressed
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
@@ -21,6 +22,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to staging and run smoke tests
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
+- [ ] Stakeholder Reviewer sign-off (or explicit risk acceptance) recorded
 - [ ] Announce release to stakeholders and support
 
 ## Rollback & Incident Playbook
@@ -36,3 +38,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+- Communication owner (PM/PdM):
+- Stakeholder review/sign-off reference:
+
+## Cross-functional release handoff
+- Complete the "Release Ready" section in [Cross-Functional Handoff Checklist](./octoacme-cross-functional-handoff-checklist.md)
+- Confirm release decision ownership using [Roles RACI Matrix](./octoacme-roles-raci.md)

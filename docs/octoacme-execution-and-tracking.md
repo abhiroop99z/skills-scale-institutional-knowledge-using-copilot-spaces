@@ -7,6 +7,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
+- Scrum Master facilitates ceremonies and blocker removal; PM owns escalation visibility
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
@@ -15,6 +16,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
+- Keep BA and UX engaged during execution for requirement clarifications and design intent checks
 
 ## Quality & Testing
 - Unit tests for new logic
@@ -38,3 +40,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Scrum Master and PM escalation path agreed and communicated
+- [ ] BA/UX touchpoints scheduled for in-flight clarifications
+- [ ] "QA Ready" completed in [Cross-Functional Handoff Checklist](./octoacme-cross-functional-handoff-checklist.md)
